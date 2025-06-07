@@ -24,15 +24,16 @@ hdfs dfs -put earthquakes_dataset.csv /user/hadoop/input/
 ```bash
 javac -classpath `hadoop classpath` -d build src/Main/earthquakesjob/*.java
 jar -cvf TopEarthquakes.jar -C build/ .
-
+```
 ### 3. Run Hadoop job:
 ```bash
 hadoop jar TopEarthquakes.jar Main.earthquakesjob.EarthquakeDriver \
   /user/hadoop/input /user/hadoop/output
-
+```
 ### 4. Get result file:
 ```bash
-hdfs dfs -cat /user/yourname/output/part-r-00000 > top10earthquakes.txt
+hdfs dfs -cat /user/hadoop/output/part-r-00000 > top10earthquakes.txt
+```
 
-## Output format
+## 📄 Output format
 <Date> | <Location> | <Magnitude>
