@@ -19,7 +19,7 @@ Use Hadoop MapReduce (Java) to analyze historical earthquake data and find the t
 ```bash
 hdfs dfs -mkdir -p /user/yourname/input
 hdfs dfs -put earthquakes_dataset.csv /user/hadoop/input/
-
+```
 ### 2. Compile Java files and create JAR:
 ```bash
 javac -classpath `hadoop classpath` -d build src/Main/earthquakesjob/*.java
