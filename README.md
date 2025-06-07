@@ -36,4 +36,4 @@ hdfs dfs -cat /user/hadoop/output/part-r-00000 > top10earthquakes.txt
 ```
 
 ## 📄 Output format
-<Date> | <Location> | <Magnitude>
+Date | Location | Magnitude
