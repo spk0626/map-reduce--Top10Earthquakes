@@ -1,0 +1,10 @@
+Time: 1985-10-22T19:14:01.630Z | Place: "281 km SE of Levuka | Magnitude: 700.0	700.0
+Time: 1977-06-17T02:29:09.800Z | Place: "260 km SE of Levuka | Magnitude: 690.0	690.0
+Time: 2007-05-06T22:01:08.920Z | Place: "206 km SE of Levuka | Magnitude: 688.0	688.0
+Time: 2000-09-02T17:02:19.550Z | Place: "275 km SE of Levuka | Magnitude: 687.6	687.6
+Time: 2007-05-07T00:24:47.900Z | Place: "191 km SE of Levuka | Magnitude: 682.2	682.2
+Time: 2007-05-06T21:11:52.500Z | Place: "203 km SE of Levuka | Magnitude: 676.4	676.4
+Time: 1984-10-10T19:05:58.140Z | Place: "274 km SSE of Levuka | Magnitude: 675.6	675.6
+Time: 2000-03-01T04:21:01.390Z | Place: "174 km SE of Levuka | Magnitude: 675.0	675.0
+Time: 2004-01-11T09:29:10.280Z | Place: "280 km SE of Levuka | Magnitude: 673.1	673.1
+Time: 2000-03-01T04:46:29.540Z | Place: "180 km SE of Levuka | Magnitude: 671.9	671.9
