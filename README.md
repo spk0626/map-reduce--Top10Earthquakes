@@ -1,7 +1,7 @@
 # 🌍 Top 10 Earthquakes (1900–2023) – Hadoop MapReduce
 
 ## 🎯 Objective
-Use Hadoop MapReduce (Java) to analyze historical earthquake data and find the top 10 strongest earthquakes from 1900 to 2023 based on magnitude.
+Use Hadoop MapReduce (Java) to analyze historical earthquake data and find the top 10 most powerful earthquakes from 1900 to 2023 based on magnitude.
 
 ---
 
